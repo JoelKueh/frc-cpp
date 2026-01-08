@@ -127,11 +127,12 @@
     - I recommend that you copy and paste the code on the following slide, then fill out
       the line that is marked "*\<WRITE YOUR CODE HERE\>*"
     - I will explain this code further in the next lesson.
-
   - *HINTS*
     - I don't remember how to convert yards to killometers, and I bet you don't either.
       *LOOK IT UP*, Googling is a very important part of programming.
-    - All you need to write is a single line. If you can't get it, we'll discuss further in lesson 2.
+    - *DO NOT FEEL BAD IF YOU DO NOT GET IT.* I'm putting this example out here to get your brains
+      working, but there's a lot I haven't taught you yet.
+    - Once you've given it an honest attempt, move on to lesson 2.
 
   #pagebreak()
   ```cpp
