@@ -132,7 +132,7 @@
   - Fortunately, there are some good tools for practicing C++ Syntax.
   - Before next lesson, you all should look through \ 
     https://www.geeksforgeeks.org/cpp/cpp-tutorial/
-  - In particular, you should look through everything under "C++ Basics" and "C++ Control Flow".
-    Then you should go through the first and second sections of "C++ Functions"
+  - In particular, you should look through everything under "Basics" and the first two sections
+    of "Function" ("Functions" and "Parameter Passing Techniques").
 ]
 
