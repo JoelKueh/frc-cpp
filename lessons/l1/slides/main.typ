@@ -118,7 +118,7 @@
 ]
 
 
-#slide(title: "Excersise 1: Yards to Killometers")[
+#slide(title: "Exercise 1: Yards to Killometers")[
   - How about you try one yourself now.
   - We will be translating from Yards to Killometers.
   - You can run the code that you write in
